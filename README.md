@@ -1,6 +1,13 @@
-<p align="center">
-  <h1 align="center">Maths - The way of new learning</h1>
+<h1 align="center">Maths - The way of new learning</h1>
   
+  <div align="center">
+<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40banrossyn-28a8ea"></a>
+<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%40+919694260426-28a8ea"></a>
+<a href="https://www.linkedin.com/in/banrossyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-banrossyn-informational"></a>
+<a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Email-banrossyn%40gmail.com-blue"></a>
+
+</div>
+
 A Simple yet amazing math application for students, teachers and parents.Increase your brainpower using more then 36 thousands of mathematical questions/quiz.
 
 it’s one type of Math Game for Kids which provides a daily test to practice on random math operations. The printable math quizzes are great practice on math worksheets for kids to reinforce basic math concepts and improve the speed with accuracy on basic math facts.
@@ -58,24 +65,10 @@ it’s one type of Math Game for Kids which provides a daily test to practice on
 
 and Much More!
 
-   
-- ⚡  If You want to join us than message on <a href="banrossyn@gmail.com">Mail</a>
-&
-<a href="https://t.me/banrossyn">Telegram</a>. 
-
-> Note: `-- Apache License 2.0` you can't Publish any Source code without permission.
 # 
-
-<p align="center">
-    <a href="https://www.paypal.com/paypalme/banrossyn">
-      <img src="https://user-images.githubusercontent.com/97843190/184054819-e2e80e69-df46-4d38-8769-5d591673d412.png" width="400"/>
-    </a>
-  </p>
-<p align="center">If you like my work and Source Code is really helpful for you, <strong>Show Some Love</strong></p>
-
  <p align="center">
-    <a href="https://www.paypal.com/paypalme/banrossyn">
-      <img src="https://github.com/OmaPrakash/Maths_The_way_of_new_learning/assets/118904953/417a91ac-02ca-4758-a149-f463f8f61111" />
+    <a href="">
+      <img src="https://github.com/AndroidWithRossyn/Maths_The_way_of_new_learning/assets/118904953/417a91ac-02ca-4758-a149-f463f8f61111" />
     </a>
   </p>
 
@@ -91,24 +84,3 @@ and Much More!
 
 ✓ Succeed in the math exam: Make sure that you are well prepared for the upcoming math exam. Math Quiz preparation for the exam is thorough and productive.
 
-## What You Get?
-Full Android Source Code.
-Full Document with Screenshot.
-
-# Rate the app:
-Please consider rating the app if you are satisfied with the product. Thank you.
-       
-# License: 
- ```
-  Copyright 2020 Rossyn
-  Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. 
-  See the NOTICE file distributed with this work for additional information regarding copyright ownership. 
-  The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); 
-  you may not use this file except in compliance with the License. 
-  You may obtain a copy of the License at 
-  
-  http://www.apache.org/licenses/LICENSE-2.0 
-  
-  Unless required by applicable law or agreed to in writing, software distributed under 
-  the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
-  either express or implied. See the License for the specific language governing permissions and limitations under the License."
